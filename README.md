@@ -1,0 +1,2 @@
+# linke
+Linke = Linker + Linkee
